@@ -8,7 +8,7 @@ replicaCount: 5
 
 image:
   name: alterusio/hello-world
-  tag: "VZCGmfW"
+  tag: "hqOTiBl"
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
