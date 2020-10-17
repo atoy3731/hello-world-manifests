@@ -8,7 +8,7 @@ replicaCount: 5
 
 image:
   name: atoy3731/hello-world
-  tag: "0QExUGu"
+  tag: "Bh3owP2"
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
