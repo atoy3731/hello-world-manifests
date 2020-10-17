@@ -7,7 +7,7 @@ appName: demo
 replicaCount: 5
 
 image:
-  name: alterusio/hello-world
+  name: atoy3731/hello-world
   tag: "0QExUGu"
   pullPolicy: IfNotPresent
 
